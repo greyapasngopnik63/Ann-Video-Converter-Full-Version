@@ -230,3 +230,6 @@ This repository serves as the official landing page for Ann Video Converter. The
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of Ann Video Converter today!**
+
+---
+**Last updated:** 2026-09-07 18:10:26 UTC
